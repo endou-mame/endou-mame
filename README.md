@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! ![Hi!](https://twemoji.maxcdn.com/v/13.0.0/72x72/1f44b.png)
 
-<!--
-**endou-mame/endou-mame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endou-mame\&layout=compact)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endou-mame\&hide=contribs,issues\&rank_icon=github\&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Skill Set
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,vue,nuxt,react)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet,java,spring,ruby,rails,mysql,postgres)](https://skillicons.dev)
+
+### DevOps
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,sublime,ubuntu,aws,firebase)](https://skillicons.dev)
