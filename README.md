@@ -6,10 +6,10 @@
 
 # My Skill Set
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,vue,nuxt,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,ts,js,vue,nuxt,vuetify,pinia,react)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet,java,spring,ruby,rails,mysql,postgres)](https://skillicons.dev)
 
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,sublime,ubuntu,aws,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,sublime,ubuntu,docker,git,github,aws,firebase)](https://skillicons.dev)
