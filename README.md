@@ -13,7 +13,7 @@
 ```typescript
 const developer = {
     name: "Shigenao Kakiuchi",
-    location: "Osaka, Japan 🗾",
+    location: "Japan 🗾",
     currentFocus: "Building scalable web applications",
     currentInterests: [
         "Domain-Driven Design (DDD)",
