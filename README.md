@@ -1,20 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=1500&pause=750&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there!%F0%9F%91%8B;I'm+a+web+application+developer+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=endou-mame&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/endou-mame?style=for-the-badge&color=EC4899&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/endou-mame?style=for-the-badge&color=FFD700&label=STARS" alt="Stars" />
-</p>
-
-## 🌌 **About Me**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ```typescript
-export const developer = {
+export const me = {
     name: "Shigenao Kakiuchi",
     location: "Japan 🗾",
-    currentFocus: "Building scalable web applications",
+    work: "Web Application Developer",
+    currentFocus: "Building scalable applications",
     currentInterests: [
         "Domain-Driven Design (DDD)",
         "Test-Driven Development (TDD)",
@@ -23,19 +14,6 @@ export const developer = {
     ]
 };
 ```
-
-## 💫 **My Skill Set**
-
-### 🌐 **Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,ts,js,vue,nuxt,vuetify,pinia,react)](https://skillicons.dev)
-
-### ⚙️ **Backend**
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,cs,dotnet,java,spring,ruby,rails,mysql,postgres)](https://skillicons.dev)
-
-### 🚀 **DevOps & Tools**
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,sublime,ubuntu,docker,git,github,aws,firebase)](https://skillicons.dev)
-
-## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endou-mame&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact&langs_count=8" alt="Top Languages" />
@@ -50,8 +28,6 @@ export const developer = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=endou-mame&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=8B5CF6&area_color=EC4899&area=true" width="98%" />
 </div>
-
-## 🏆 **Achievements**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=endou-mame&theme=radical&no-frame=true&no-bg=true" />
