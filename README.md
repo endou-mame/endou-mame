@@ -4,7 +4,7 @@
 export const me = {
     name: "Shigenao Kakiuchi",
     location: "Japan 🗾",
-    work: "Web Application Developer",
+    work: "Web application developer",
     currentFocus: "Building scalable applications",
     currentInterests: [
         "Domain-Driven Design (DDD)",
