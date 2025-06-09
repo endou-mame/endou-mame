@@ -11,7 +11,7 @@
 ## 🌌 **About Me**
 
 ```typescript
-const developer = {
+export const developer = {
     name: "Shigenao Kakiuchi",
     location: "Japan 🗾",
     currentFocus: "Building scalable web applications",
